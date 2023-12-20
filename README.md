@@ -1,4 +1,4 @@
-# patika-html-odev1
+# patika-html-odev1-ve-odev2
 
 HTML exercise
 
